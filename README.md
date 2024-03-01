@@ -22,6 +22,9 @@ L'API de Gestion de Tâches permet aux utilisateurs de :
 ## Installation
 
 ```bash
+$ git clone https://github.com/1Bastien/Nest_Api_Task
+```
+```
 $ npm install
 ```
 
@@ -30,7 +33,8 @@ $ npm install
 ```bash
 # development
 $ npm run start
-
+```
+```bash
 # watch mode
 $ npm run start:dev
 ```
